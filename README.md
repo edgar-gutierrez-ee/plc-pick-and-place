@@ -9,6 +9,9 @@
 ![PLC](https://img.shields.io/badge/PLC-LS%20Electric%20XBC-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Fully%20Functional-success?style=for-the-badge)---
 
+> **California State University, Northridge — ECE 493 Senior Design | Spring 2026**
+> Team: Edgar Gutierrez · Ignacio Martinez-Laparra · Victor Jose Brito
+> Faculty Advisor: Prof. Kourosh Sedghisigarchi
 ## System Photos
 
 ![Full System](./images/full_system.png)
@@ -22,9 +25,6 @@
 
 
 
-> **California State University, Northridge — ECE 493 Senior Design | Spring 2026**
-> Team: Edgar Gutierrez · Ignacio Martinez-Laparra · Victor Jose Brito
-> Faculty Advisor: Prof. Kourosh Sedghisigarchi
 
 ---
 
