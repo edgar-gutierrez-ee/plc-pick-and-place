@@ -89,7 +89,7 @@ I was responsible for the complete hardware build and electrical infrastructure 
 | HMI | LS Electric XP40TTA/DC (RS-485) |
 | Stepper Motors | NEMA 23, 1.8° step angle, 125 oz-in |
 | Stepper Drivers | TB6600 (1.5A / 3200 steps/rev) |
-| Linear Actuator | 24V DC, 750N Force, 50mm Stroke |
+| Linear Actuator | 24V DC, 750N Force, 100mm Stroke |
 | Electromagnet | 24V DC, 6W holding power |
 | Power Supply 1 | Mean Well NDR-120-24 (24V, 5A) |
 | Power Supply 2 | National Instruments NI PS-15 (24V, 5A) |
