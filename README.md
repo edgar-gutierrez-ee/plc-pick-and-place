@@ -7,7 +7,20 @@
 ![CSUN Senior Design](https://img.shields.io/badge/CSUN-Senior%20Design%202026-003366?style=for-the-badge)
 ![2nd Place](https://img.shields.io/badge/Competition-2nd%20Place-silver?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC-LS%20Electric%20XBC-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Fully%20Functional-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Fully%20Functional-success?style=for-the-badge)---
+
+## System Photos
+
+![Full System](./images/full_system.png)
+*Complete system — 3-axis gantry and industrial control panel*
+
+![Control Panel Interior](./images/enclosure_final.jpg)
+*Control panel interior — PLC, dual PSUs, stepper drivers, DIN rail wiring*
+
+![HMI Manual Screen](./images/HMI_manual.png)
+*HMI manual control screen — jog controls, axis status, and pick head controls*
+
+
 
 > **California State University, Northridge — ECE 493 Senior Design | Spring 2026**
 > Team: Edgar Gutierrez · Ignacio Martinez-Laparra · Victor Jose Brito
