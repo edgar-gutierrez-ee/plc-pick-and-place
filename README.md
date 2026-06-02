@@ -142,10 +142,11 @@ The full 4-page schematic set was designed in **SkyCAD Electrical** and document
 
 ## Project Documents
 
-- 📄 [Hardware Integration Report (PDF)](./docs/Edgar_Gutierrez_Hardware_Report.pdf)
-- 📊 [Final Team Presentation (PDF)](./docs/ECE493_Final_Presentation.pdf)
+- 📄 [Hardware Integration Report (PDF)](./docs/PLC%20Pick-n-Place%20Report%20(hardware).pdf)
+- 📄 [Group Final Report (PDF)](./docs/Group%20Report%20PLC%20Pick-N-Place.pdf)
+- 📊 [Final Team Presentation (PDF)](./docs/ECE493_PLC%20Pick%20and%20Place_Final%20Present....pdf)
+- 📐 [Hardware Slides (PDF)](./docs/PLC-%20Pick-and-Place%20System%20Slides%20(hard....pdf)
 - 🔌 [Electrical Wiring Diagrams (PDF)](./docs/PLC_Pick_n_Place_WiringDiagram.pdf)
-
 ---
 
 ## Team Contributions
